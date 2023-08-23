@@ -1,6 +1,6 @@
 # 👋 Merhaba! Ben Mustafa
 
-![Profil Fotoğrafı](avatars.githubusercontent.com/u/143003495?v=4) <!-- Profil fotoğrafınızı buraya ekleyin -->
+![avatars.githubusercontent.com/u/143003495?v=4](avatars.githubusercontent.com/u/143003495?v=4) <!-- Profil fotoğrafınızı buraya ekleyin -->
 🧐 **Hakkımda**
 
 Merhaba! Ben Mustafa. Yazılım geliştirmeye meraklı birisiyim 🚀 ve HTML, CSS, JavaScript ve Python gibi dillerde giriş seviyesi bilgiye sahibim. Teknolojiye ve kodlamaya olan ilgimle sürekli olarak kendimi geliştirmeye odaklanıyorum.
