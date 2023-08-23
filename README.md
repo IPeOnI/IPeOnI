@@ -1,6 +1,6 @@
 # 👋 Merhaba! Ben Mustafa
 
-[![GitHub Logo](https://github.com/IPeOnI)
+[![GitHub Logo](https://github.com/IPeOnI/avatar.png)](https://github.com/IPeOnI)
 
 🧐 **Hakkımda**
 
