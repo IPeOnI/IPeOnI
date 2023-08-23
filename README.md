@@ -15,7 +15,7 @@ Merhaba! Ben Mustafa. Yazılım geliştirmeye meraklı birisiyim 🚀 ve HTML, C
 
 📬 **İletişim**
 
-Herhangi bir iletişim bilgisi paylaşmıyorum, ancak GitHub üzerinden mesaj göndererek bana ulaşabilirsiniz. GitHub üzerinden bana ulaşabilirsiniz. Mesaj göndermek için [buraya tıklayın](https://github.com/IPeOnI).
+Herhangi bir iletişim bilgisi paylaşmıyorum, ancak GitHub üzerinden mesaj göndererek bana ulaşabilirsiniz. Mesaj göndermek için [buraya tıklayın](https://github.com/IPeOnI).
  ✉️
 
 ---
