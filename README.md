@@ -20,22 +20,23 @@ Herhangi bir iletişim bilgisi paylaşmıyorum, ancak GitHub üzerinden mesaj g�
 
 ---
 
-# 👋 Hello! My Name is Mustafa
+# 👋 Hello! I'm Mustafa
 
-[![GitHub Logo](https://github.com/IPeOnI/avatar.png)](https://github.com/IPeOnI)
+![Profile Photo](https://avatars.githubusercontent.com/u/143003495?v=4) <!-- Insert your profile photo URL here -->
 
-🧐 **About Me**
+## 🧐 About Me
 
-Hello! I'm Mustafa, someone who is passionate about software development 🚀 and has a basic understanding of HTML, CSS, JavaScript, and Python. With my interest in technology and coding, I'm continuously focused on self-improvement.
+Hello! I'm Mustafa. I'm enthusiastic about software development 🚀 and I have entry-level knowledge in languages like HTML, CSS, JavaScript, and Python. With a keen interest in technology and coding, I'm constantly focused on self-improvement.
 
-🛠️ **Technical Skills**
+## 🛠️ Technical Skills
 
 - Programming Languages: HTML, CSS, JavaScript, Python
 
-📂 **Projects**
+## 📂 Projects
 
-I'm sorry, I currently don't have any projects to showcase. However, I plan to share my own projects in this section in the future.
+I don't have any projects at the moment, but I plan to share my own projects in this section in the future.
 
-📬 **Contact**
+## 📬 Contact
 
-I'm not sharing any contact information, but you can reach out to me by sending a message on GitHub. ✉️
+I don't share any contact information, but you can reach out to me via GitHub. To send a message, [click here](https://github.com/IPeOnI).
+
