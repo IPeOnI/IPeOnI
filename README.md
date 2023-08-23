@@ -1,18 +1,18 @@
 # 👋 Merhaba! Ben Mustafa
 
-🧐 **Hakkımda**
+##🧐 **Hakkımda**
 
 Merhaba! Ben Mustafa. Yazılım geliştirmeye meraklı birisiyim 🚀 ve HTML, CSS, JavaScript ve Python gibi dillerde giriş seviyesi bilgiye sahibim. Teknolojiye ve kodlamaya olan ilgimle sürekli olarak kendimi geliştirmeye odaklanıyorum.
 
-🛠️ **Teknolojik Yetenekler**
+##🧐🛠️ **Teknolojik Yetenekler**
 
 - Programlama Dilleri: HTML, CSS, JavaScript, Python
 
-📂 **Projeler**
+##🧐📂 **Projeler**
 
 Üzgünüm, şu anda herhangi bir projem bulunmamaktadır. Ancak gelecekte bu bölümde kendi projelerimi paylaşmayı düşünüyorum.
 
-📬 **İletişim**
+##🧐📬 **İletişim**
 
 Herhangi bir iletişim bilgisi paylaşmıyorum, ancak GitHub üzerinden mesaj göndererek bana ulaşabilirsiniz. Mesaj göndermek için [buraya tıklayın](https://github.com/IPeOnI).
  ✉️
